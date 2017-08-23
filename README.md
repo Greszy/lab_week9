@@ -52,6 +52,8 @@ Which has more hops? What accounts for the difference?
 
 What's one thing that makes telnet insecure?
 
+_Text that is sent with the use of telnet is plain and unchanged. Someone could intercept such information and easily read it._ 
+
 Can you telnet to codepath.com? What port is open and why?
 
 _No port is open._ 
