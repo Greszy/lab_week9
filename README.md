@@ -42,9 +42,11 @@ Does the domain returned from nslookup match? If not, why not?
 
 The domain name from nslookup does not match the domain name use with ping command. This is because a few domain names are assigned to one IP address. 
 
-#traceroute 
+traceroute 
 
-#How many of the hops are the same? What accounts for this?
+How many of the hops are the same? What accounts for this?
+
+Which has more hops? What accounts for the difference?
 
 Core Tools
 
