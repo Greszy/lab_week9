@@ -22,35 +22,43 @@ The following advanced user stories are optional:
 
 ## Answers
 
-Networking Toolbox
+### Networking Toolbox
 
-ifconfig
+#### ifconfig
 
 What is your primary interface's IP address? Is it different from your public IP? Why or why not?
 
 My primary interface's IP is different from my public IP. The public IP is given by my Internet provider where the interface IP is assigned to one of my adapters. 
 
-ping
+#### ping
 
 Why would the IP address of google.com change between runs or from different locations?
 
 The Ip address can change depending on the location or number of runs. Google has multiple servers all across the world so a clients request is probably directed to the best location. Google also manages the load of requests, if one server is overloaded some requests are sent to another server. 
 
-nslookup 
+### nslookup 
 
 Does the domain returned from nslookup match? If not, why not?
 
 The domain name from nslookup does not match the domain name use with ping command. This is because a few domain names are assigned to one IP address. 
 
-traceroute 
+### traceroute 
 
 How many of the hops are the same? What accounts for this?
 
 Which has more hops? What accounts for the difference?
 
-Core Tools
+### telnet
 
-curl and wget
+What's one thing that makes telnet insecure?
+
+Can you telnet to codepath.com? What port is open and why?
+
+No port is open. 
+
+## Core Tools
+
+### curl and wget
 
 Identify some differences between the two.
 
@@ -62,11 +70,11 @@ Which are you more likely to find pre-installed on a Linux OS?
 
 What is the syntax for each for downloading a file to the current directory?
 
-ssh and scp
+### ssh and scp
 
 Why is key authentication preferred to passwords?
-What is the syntax for copying a file from a local folder to a remote one?
 
+What is the syntax for copying a file from a local folder to a remote one?
 
 
 
