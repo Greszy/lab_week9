@@ -19,6 +19,35 @@ The following advanced user stories are optional:
 
 * []  Bonus 1: Map your home LAN using nmap 
 * []  Bonus 2: Wi-Fi Hacking — Sniff Thy Neighbor's Packets
+
+## Answers
+
+Networking Toolbox
+
+What is your primary interface's IP address? Is it different from your public IP? Why or why not?
+
+Core Tools
+
+curl and wget
+
+Identify some differences between the two.
+
+Which would you be more likely to use for interacting with a RESTful API from the command line?
+
+Which support recursive downloading?
+
+Which are you more likely to find pre-installed on a Linux OS?
+
+What is the syntax for each for downloading a file to the current directory?
+
+ssh and scp
+
+Why is key authentication preferred to passwords?
+What is the syntax for copying a file from a local folder to a remote one?
+
+
+
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
