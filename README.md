@@ -36,6 +36,12 @@ Why would the IP address of google.com change between runs or from different loc
 
 The Ip address can change depending on the location or number of runs. Google has multiple servers all across the world so a clients request is probably directed to the best location. Google also manages the load of requests, if one server is overloaded some requests are sent to another server. 
 
+nslookup 
+
+Does the domain returned from nslookup match? If not, why not?
+
+The domain name from nslookup does not match the domain name use with ping command. This is because a few domain names are assigned to one IP address. 
+
 Core Tools
 
 curl and wget
