@@ -24,7 +24,17 @@ The following advanced user stories are optional:
 
 Networking Toolbox
 
+ifconfig
+
 What is your primary interface's IP address? Is it different from your public IP? Why or why not?
+
+My primary interface's IP is different from my public IP. The public IP is given by my Internet provider where the interface IP is assigned to one of my adapters. 
+
+ping
+
+Why would the IP address of google.com change between runs or from different locations?
+
+The Ip address can change depending on the location or number of runs. Google has multiple servers all across the world so a clients request is probably directed to the best location. Google also manages the load of requests, if one server is overloaded some requests are sent to another server. 
 
 Core Tools
 
