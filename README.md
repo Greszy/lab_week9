@@ -34,13 +34,13 @@ My primary interface's IP is different from my public IP. The public IP is given
 
 Why would the IP address of google.com change between runs or from different locations?
 
-The Ip address can change depending on the location or number of runs. Google has multiple servers all across the world so a clients request is probably directed to the best location. Google also manages the load of requests, if one server is overloaded some requests are sent to another server. 
+_The Ip address can change depending on the location or number of runs. Google has multiple servers all across the world so a clients request is probably directed to the best location. Google also manages the load of requests, if one server is overloaded some requests are sent to another server._ 
 
 #### nslookup 
 
 Does the domain returned from nslookup match? If not, why not?
 
-The domain name from nslookup does not match the domain name use with ping command. This is because a few domain names are assigned to one IP address. 
+_The domain name from nslookup does not match the domain name use with ping command. This is because a few domain names are assigned to one IP address._ 
 
 #### traceroute 
 
@@ -54,7 +54,7 @@ What's one thing that makes telnet insecure?
 
 Can you telnet to codepath.com? What port is open and why?
 
-No port is open. 
+_No port is open._ 
 
 ## Core Tools
 
