@@ -26,43 +26,43 @@ The following advanced user stories are optional:
 
 #### ifconfig
 
-What is your primary interface's IP address? Is it different from your public IP? Why or why not?
+##### What is your primary interface's IP address? Is it different from your public IP? Why or why not?
 
 My primary interface's IP is different from my public IP. The public IP is given by my Internet provider where the interface IP is assigned to one of my adapters. 
 
 #### ping
 
-Why would the IP address of google.com change between runs or from different locations?
+##### Why would the IP address of google.com change between runs or from different locations?
 
 _The Ip address can change depending on the location or number of runs. Google has multiple servers all across the world so a clients request is probably directed to the best location. Google also manages the load of requests, if one server is overloaded some requests are sent to another server._ 
 
 #### nslookup 
 
-Does the domain returned from nslookup match? If not, why not?
+##### Does the domain returned from nslookup match? If not, why not?
 
 _The domain name from nslookup does not match the domain name use with ping command. This is because a few domain names are assigned to one IP address._ 
 
 #### traceroute 
 
-How many of the hops are the same? What accounts for this?
+##### How many of the hops are the same? What accounts for this?
 
-Which has more hops? What accounts for the difference?
+##### Which has more hops? What accounts for the difference?
 
 #### telnet
 
-What's one thing that makes telnet insecure?
+##### What's one thing that makes telnet insecure?
 
 _Text that is sent with the use of telnet is plain and unchanged. Someone could intercept such information and easily read it._ 
 
-Can you telnet to codepath.com? What port is open and why?
+##### Can you telnet to codepath.com? What port is open and why?
 
-_No port is open._ 
+_No, Unable to connect to remote host: Connection refused_ 
 
 ## Core Tools
 
 #### curl and wget
 
-Identify some differences between the two.
+##### Identify some differences between the two.
 
 _Wget has an ability to download recursively._
 _Wget is older._
@@ -74,15 +74,15 @@ _Curl supports more protocols._
 _Curl is more portable._
 _Curl supports more HTTP authentication methods._
 
-Which would you be more likely to use for interacting with a RESTful API from the command line?
+##### Which would you be more likely to use for interacting with a RESTful API from the command line?
 
 _Curl, because it supports a wide number of protocols._ 
 
-Which support recursive downloading?
+##### Which support recursive downloading?
 
 _Wget supports recursive dwonloading._
 
-Which are you more likely to find pre-installed on a Linux OS?
+##### Which are you more likely to find pre-installed on a Linux OS?
 
 Wget, curl is not generally considered as part of pre-installation on Linux OS. 
 
@@ -90,23 +90,23 @@ What is the syntax for each for downloading a file to the current directory?
 
 #### ssh and scp
 
-Why is key authentication preferred to passwords?
+##### Why is key authentication preferred to passwords?
 
-What is the syntax for copying a file from a local folder to a remote one?
+##### What is the syntax for copying a file from a local folder to a remote one?
 
 ## Milestone 2: Grabbing Packets with tcpdump
 
 #### Challenge 1
 
-How many requests to load the main codepath.com page?
+##### How many requests to load the main codepath.com page?
 
 _Around 34 requests._ 
 
-What type of resource accounts for most of the requests?
+##### What type of resource accounts for most of the requests?
 
 _Most requests are for images and javascript files._
 
-Now try the same exercise with https://security.codepath.com. What differences do you see in the output? What accounts for those differences?
+##### Now try the same exercise with https://security.codepath.com. What differences do you see in the output? What accounts for those differences?
 
 _There are no visible HTTP requestsin the tcpdump output for https://security.codepath.com._
 
