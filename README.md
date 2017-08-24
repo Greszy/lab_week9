@@ -78,6 +78,26 @@ Why is key authentication preferred to passwords?
 
 What is the syntax for copying a file from a local folder to a remote one?
 
+## Milestone 2: Grabbing Packets with tcpdump
+
+#### Challenge 1
+
+How many requests to load the main codepath.com page?
+
+_Around 34 requests._ 
+
+What type of resource accounts for most of the requests?
+
+_Most requests are for images and javascript files._
+
+Now try the same exercise with https://security.codepath.com. What differences do you see in the output? What accounts for those differences?
+
+_There are no visible HTTP requestsin the tcpdump output for https://security.codepath.com._
+
+
+
+
+
 
 
 ## Video Walkthrough
