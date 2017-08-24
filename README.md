@@ -11,7 +11,7 @@ The following **required** functionality is completed:
 3. [x]  Required: Milestone 2: Grabbing Packets with tcpdump
 4. [x]  Required: Milestone 3: Hello, Wireshark
 5. [x]  Required: Milestone 4: Traffic Analysis — Mike's Computer is Acting Weird 
-6. [x]  Required: Milestone 5: Traffic Analysis — Mystery Meat Malware
+6. []  Required: Milestone 5: Traffic Analysis — Mystery Meat Malware
 7. [x]  Required: Milestone 6: Wi-Fi Hacking — Crack a Handshake
 8. []  Required: Milestone 7: Wi-Fi Hacking — Grab a Handshake
 
