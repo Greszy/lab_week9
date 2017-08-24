@@ -9,10 +9,10 @@ The following **required** functionality is completed:
 1. [X]  Required: Milestone 0: Networking Toolbox 
 2. [x]  Required: Milestone 1: Security-Flavored Net Tools
 3. [x]  Required: Milestone 2: Grabbing Packets with tcpdump
-4. []  Required: Milestone 3: Hello, Wireshark
-5. []  Required: Milestone 4: Traffic Analysis — Mike's Computer is Acting Weird 
-6. []  Required: Milestone 5: Traffic Analysis — Mystery Meat Malware
-7. []  Required: Milestone 6: Wi-Fi Hacking — Crack a Handshake
+4. [x]  Required: Milestone 3: Hello, Wireshark
+5. [x]  Required: Milestone 4: Traffic Analysis — Mike's Computer is Acting Weird 
+6. [x]  Required: Milestone 5: Traffic Analysis — Mystery Meat Malware
+7. [x]  Required: Milestone 6: Wi-Fi Hacking — Crack a Handshake
 8. []  Required: Milestone 7: Wi-Fi Hacking — Grab a Handshake
 
 The following advanced user stories are optional:
@@ -130,7 +130,15 @@ Here's a walkthrough of implemented user stories:
 
 ### Milestone 2: Grabbing Packets with tcpdump
 
-<img src='walk9_lab2.gif' title='Video Walkthrough 3' width='' alt='Video Walkthrough 3' />
+<img src='walk9_lab3.gif' title='Video Walkthrough 3' width='' alt='Video Walkthrough 3' />
+
+### Milestone 3: Hello, Wireshark
+
+<img src='walk9_lab4.gif4' title='Video Walkthrough 4' width='' alt='Video Walkthrough 4' />
+
+###  Milestone 6: Wi-Fi Hacking — Crack a Handshake
+
+<img src='walk9_lab4.gif5' title='Video Walkthrough 5' width='' alt='Video Walkthrough 5' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
