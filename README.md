@@ -117,10 +117,19 @@ _Most requests are for images and javascript files._
 
 _There are no visible HTTP requestsin the tcpdump output for https://security.codepath.com._
 
+## Milestone 4: Traffic Analysis — Mike's Computer is Acting Weird
+
+###### What's the purpose of the request to checkip.dyndns.org?
+
+It is a phishing site. 
+
+###### What's up with the three jpg requests? Why two different domains?
 
 
 
+###### How was the malware delivered? What isn't Mike telling us?
 
+_It was delivered through some image._ 
 
 
 ## Video Walkthrough
