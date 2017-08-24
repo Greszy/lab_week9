@@ -64,11 +64,27 @@ _No port is open._
 
 Identify some differences between the two.
 
+_Wget has an ability to download recursively._
+_Wget is older._
+_Wget requires no extra options to simply download a remote URL to a local file, while curl requires -o or -O._
+_Wget is command line only._
+
+_Curl is powered by libcurl._
+_Curl supports more protocols._
+_Curl is more portable._
+_Curl supports more HTTP authentication methods._
+
 Which would you be more likely to use for interacting with a RESTful API from the command line?
+
+_Curl, because it supports a wide number of protocols._ 
 
 Which support recursive downloading?
 
+_Wget supports recursive dwonloading._
+
 Which are you more likely to find pre-installed on a Linux OS?
+
+Wget, curl is not generally considered as part of pre-installation on Linux OS. 
 
 What is the syntax for each for downloading a file to the current directory?
 
