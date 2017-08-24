@@ -7,8 +7,8 @@ Time spent: **5** hours spent in total
 The following **required** functionality is completed:
 
 1. [X]  Required: Milestone 0: Networking Toolbox 
-2. []  Required: Milestone 1: Security-Flavored Net Tools
-3. []  Required: Milestone 2: Grabbing Packets with tcpdump
+2. [x]  Required: Milestone 1: Security-Flavored Net Tools
+3. [x]  Required: Milestone 2: Grabbing Packets with tcpdump
 4. []  Required: Milestone 3: Hello, Wireshark
 5. []  Required: Milestone 4: Traffic Analysis — Mike's Computer is Acting Weird 
 6. []  Required: Milestone 5: Traffic Analysis — Mystery Meat Malware
@@ -104,9 +104,17 @@ _There are no visible HTTP requestsin the tcpdump output for https://security.co
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walk7_lab.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+### ifconfig walkthrough 
 
-<img src='walk7_lab2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walk9_lab.gif' title='Video Walkthrough 1' width='' alt='Video Walkthrough 1' />
+
+### Challenge 1: nmap
+
+<img src='walk9_lab2.gif' title='Video Walkthrough 2' width='' alt='Video Walkthrough 2' />
+
+### Milestone 2: Grabbing Packets with tcpdump
+
+<img src='walk9_lab2.gif' title='Video Walkthrough 3' width='' alt='Video Walkthrough 3' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
