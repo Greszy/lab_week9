@@ -94,8 +94,11 @@ _wget http://example.com/file.iso_
 
 #### ssh and scp
 
-##### Why is key authentication preferred to passwords?
+##### Why is key authentication preferred to passwords? 
 
+_No login password is needed, so there is no password to steal._
+
+_It is also more convenient because only the "blessed" machines get access."
 ##### What is the syntax for copying a file from a local folder to a remote one?
 
 ## Milestone 2: Grabbing Packets with tcpdump
