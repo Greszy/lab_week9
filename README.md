@@ -86,7 +86,11 @@ _Wget supports recursive dwonloading._
 
 Wget, curl is not generally considered as part of pre-installation on Linux OS. 
 
-What is the syntax for each for downloading a file to the current directory?
+##### What is the syntax for each for downloading a file to the current directory?
+
+_curl ftp://example.com_
+
+_wget http://example.com/file.iso_
 
 #### ssh and scp
 
