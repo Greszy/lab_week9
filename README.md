@@ -134,11 +134,11 @@ Here's a walkthrough of implemented user stories:
 
 ### Milestone 3: Hello, Wireshark
 
-<img src='walk9_lab4.gif4' title='Video Walkthrough 4' width='' alt='Video Walkthrough 4' />
+<img src='walk9_lab4.gif' title='Video Walkthrough 4' width='' alt='Video Walkthrough 4' />
 
 ###  Milestone 6: Wi-Fi Hacking — Crack a Handshake
 
-<img src='walk9_lab4.gif5' title='Video Walkthrough 5' width='' alt='Video Walkthrough 5' />
+<img src='walk9_lab5.gif' title='Video Walkthrough 5' width='' alt='Video Walkthrough 5' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
